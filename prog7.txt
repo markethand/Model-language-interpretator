@@ -1,0 +1,7 @@
+program {
+/*read (5);*/
+string a = "a", b = "b", c, d = "123";
+read(c);
+write (a <= b);
+write (a + b);
+}

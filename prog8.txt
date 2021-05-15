@@ -1,0 +1,9 @@
+program {
+/*read (5);*/
+boolean a, b = true, c = false;
+
+a = b and c or b or not b;
+a = b = (c = a);
+read(a);
+write(b=c);
+}

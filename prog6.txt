@@ -1,0 +1,10 @@
+program {
+/*read (5);*/
+int a, b = 1, c, d = 2;
+c = d + (a = b);
+(a=b)=(c=d);
+write (a);
+write (b);
+write (c);
+write (d);
+}

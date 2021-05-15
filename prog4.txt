@@ -1,0 +1,3 @@
+program {boolean a = true; write("5", "2"); a = not a;
+write(a);
+}
